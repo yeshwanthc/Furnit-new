@@ -17,7 +17,7 @@ const Demos = () => {
       <Head>
         <link rel="stylesheet" href="/assets/css/style.css" />
       </Head>
-      <style jsx>{`
+      <style>{`
         .works-header {
           min-height: 85vh;
           position: relative;
@@ -91,7 +91,7 @@ const Demos = () => {
             <div className="col-lg-12 static text-center">
               <div className="capt mt-50">
                 <div className="parlx">
-                  <h1 className="mb-10">Archo Template</h1>
+                  <h1 className="mb-10">Furnitt</h1>
                   <p className="ls10 text-u">
                     Creative Architecture Interior Template.
                   </p>
