@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/slider/slider1.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Residential Design",
+    "content": "Transforming homes into stunning living spaces with innovative design solutions."
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/slider/slider2.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Commercial Design",
+    "content": "Creating functional and stylish commercial spaces tailored to your business needs."
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/slider/slider3.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Custom Furniture Design",
+    "content": "Crafting bespoke furniture pieces that blend aesthetics and functionality."
+  }
+]

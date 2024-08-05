@@ -1,0 +1,29 @@
+{
+  "title": {
+    "first": "Transforming Your Home",
+    "second": "Into a Haven of Style and Comfort."
+  },
+  "image": "/assets/img/furnitt_about.jpg",
+  "content": "At Furnitt, we specialize in transforming your home into a haven of style and comfort. Our dedicated team of interior design experts is passionate about turning your vision into a reality. We understand that your home is a reflection of your personality and lifestyle, which is why we approach every project with creativity, precision, and a commitment to excellence. Since our inception, we have been dedicated to enhancing living spaces with innovative designs and high-quality craftsmanship. Whether you’re looking to update a single room or undertake a complete home makeover, our comprehensive services and personalized approach ensure that every detail aligns with your dreams and expectations.",
+  "exp": {
+    "nmb": 7,
+    "since": 2017
+  },
+  "numbers": [
+    {
+      "id": 1,
+      "number": 2500,
+      "name": "PROJECTS COMPLETED"
+    },
+    {
+      "id": 2,
+      "number": 2000,
+      "name": "SATISFIED CLIENTS"
+    },
+    {
+      "id": 3,
+      "number": 15,
+      "name": "AWARDS WON"
+    }
+  ]
+}

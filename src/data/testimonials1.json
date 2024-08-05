@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "image": "/assets/img/team/1.jpg",
+      "content": "Furnitt transformed our home beyond our expectations. Their attention to detail and creativity made the entire process seamless and enjoyable.",
+      "username": "Ravi Kumar",
+      "usertitle": "Satisfied Homeowner"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/team/2.jpg",
+    "content": "The quality and elegance of Furnitt’s designs are unmatched. They truly understand how to blend modern style with functionality.",
+    "username": "Anita Sharma",
+    "usertitle": "Happy Client"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/team/3.jpg",
+    "content": "From concept to completion, Furnitt delivered outstanding results. Our new space is a perfect reflection of our tastes and needs.",
+    "username": "Rajesh Reddy",
+    "usertitle": "Pleased Customer"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/team/4.jpg",
+    "content": "Furnitt’s dedication to excellence is evident in every detail. They made our vision come to life with exceptional craftsmanship and service.",
+    "username": "Priya Patel",
+    "usertitle": "Delighted Homeowner"
+  }
+]

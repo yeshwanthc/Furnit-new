@@ -1,0 +1,25 @@
+{
+  "image": "/assets/img/furnitt_services.jpg",
+  "services": [
+    {
+      "id": "01",
+      "title": "Designer Ceilings",
+      "content": "We use quality materials like wood, POP, and artex to give your ceiling a stylish touch."
+    },
+    {
+      "id": "02",
+      "title": "Wood Works",
+      "content": "Modernize your home with custom woodwork, from TV mounts to wardrobes and storage units."
+    },
+    {
+      "id": "03",
+      "title": "Amazing Flooring",
+      "content": "We provide flooring options like solid wood and marble to give your home a perfect finish."
+    },
+    {
+      "id": "04",
+      "title": "Glass Innovation",
+      "content": "Install glass stairs, partitions, cabinets, designer doors, and more for endless possibilities."
+    }
+  ]
+}

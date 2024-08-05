@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/blog/1.jpg",
+    "title": "Transforming Spaces: Furnitt's Design Philosophy",
+    "by": "PRIYA SHARMA",
+    "date": "Aug 05 2024",
+    "date2": ["Aug 2024", "05"]
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/blog/2.jpg",
+    "title": "Top Trends in Interior Design for 2024",
+    "by": "RAHUL VERMA",
+    "date": "Aug 05 2024",
+    "date2": ["Aug 2024", "05"]
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/blog/3.jpg",
+    "title": "Sustainable Furniture: Furnitt's Commitment to Eco-Friendly Design",
+    "by": "ANITA RAO",
+    "date": "Aug 05 2024",
+    "date2": ["Aug 2024", "05"]
+  }
+]

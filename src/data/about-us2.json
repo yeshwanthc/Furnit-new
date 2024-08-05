@@ -1,0 +1,24 @@
+{
+  "title": {
+    "first": "Best Designers",
+    "second": "Architectures for You."
+  },
+  "image1": "/assets/img/slider/slider4.jpg",
+  "image2": "/assets/img/slider/slider5.jpg",
+  "content": "Furnitt is a premier interior design firm specializing in creating artistic and personalized living spaces. With a commitment to creativity, luxury, and architectural excellence, we transform spaces into extraordinary experiences. Our process involves meticulous planning and execution, ensuring every detail aligns with our client's vision and requirements. From concept to completion, our focus remains on delivering unparalleled design solutions that elevate everyday living.",
+  "exp": 21,
+  "textList": [
+    {
+      "id": 1,
+      "name": "Architecture"
+    },
+    {
+      "id": 2,
+      "name": "Interior Design"
+    },
+    {
+      "id": 3,
+      "name": "Furniture"
+    }
+  ]
+}
